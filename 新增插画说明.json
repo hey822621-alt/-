@@ -1,0 +1,37 @@
+{
+  "method": "Built-in ImageGen",
+  "assets": [
+    {
+      "id": "pushkin",
+      "prompt": "Alexander Pushkin, recognizable authentic likeness based on Kiprensky's 1827 portrait: young adult Russian poet, curly dark hair, prominent sideburns, clean shaven chin, dark frock coat, tartan drape; warm honey ochre palette."
+    },
+    {
+      "id": "gogol",
+      "prompt": "Nikolai Gogol, recognizable authentic likeness from his historical portraits: straight brown side-parted ear-length hair, long narrow nose, thin moustache, dark nineteenth century coat; restrained olive gray palette."
+    },
+    {
+      "id": "dostoevsky",
+      "prompt": "Fyodor Dostoevsky, recognizable authentic likeness based on Perov's 1872 portrait: high receding forehead, short brown beard, deep-set thoughtful eyes, lean face, dark coat; dark umber and muted rust palette."
+    },
+    {
+      "id": "tolstoy",
+      "prompt": "Leo Tolstoy in old age, recognizable authentic likeness from Repin portraits: broad forehead, bushy white eyebrows, long full white beard, plain peasant shirt; muted sage and earth palette."
+    },
+    {
+      "id": "chekhov",
+      "prompt": "Anton Chekhov, recognizable authentic likeness from Braz portrait: pince-nez spectacles, brown swept side-parted hair, small pointed beard and moustache, late nineteenth century jacket; soft mauve gray palette."
+    },
+    {
+      "id": "crime",
+      "prompt": "Crime and Punishment, Raskolnikov on a crowded dusty Saint Petersburg street in hot summer 1865 after the crime, pale young clean-shaven former student in a worn dark coat and battered hat, standing apart with fearful inward gaze, passersby and a market cart, ochre plaster buildings, oppressive daylight. Wide exterior composition, no staircase, no snow."
+    },
+    {
+      "id": "underground",
+      "prompt": "Notes from Underground part II: the 24-year-old narrator humiliated at dinner with four male former classmates, Zverkov, Simonov, Ferfichkin and Trudolyubov. Realistic literary oil painting."
+    },
+    {
+      "id": "idiot",
+      "prompt": "The Idiot opening scene: Prince Myshkin and Rogozhin meet inside a third-class railway carriage approaching Saint Petersburg on a cold damp November morning, 1860s. Myshkin is a fair-haired slender young man with a small light beard, wearing a worn Swiss cloak and holding a small cloth bundle; across from him dark-haired Rogozhin wears a fur-lined coat. Wooden carriage benches, misted small window, tense contrasting expressions, cool diffuse dawn. No salon, no fireplace, no money."
+    }
+  ]
+}
